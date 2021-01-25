@@ -7,7 +7,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <h3 align="center">Tours</h3>
+  <h3 align="center">Reviews</h3>
 
   <p align="center">
     Esercizio useEffect + useState
